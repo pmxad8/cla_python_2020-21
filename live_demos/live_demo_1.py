@@ -9,3 +9,4 @@ while (k < input_N + 1):
 	k = k + 1; # or k += 1
 
 print(sum_counter)
+print(input_N*(input_N + 1)/2)
